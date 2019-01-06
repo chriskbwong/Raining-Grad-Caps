@@ -1,5 +1,5 @@
 var falling = true;
-var total = 37;
+var total = 35;
 var container = document.getElementById("caps-container"),	w = window.innerWidth , h = window.innerHeight;
  
  for (i=0; i<total; i++){ 
